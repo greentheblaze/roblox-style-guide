@@ -19,6 +19,6 @@ Here are a few things you can do that will increase the likelihood of your pull 
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
 - Write a good commit message.
 
-[code-of-conduct]: https://github.com/greentheblaze-open-source/roblox-style-guide/blob/main/CODE_OF_CONDUCT.md
-[license]: https://github.com/greentheblaze-open-source/roblox-style-guide/blob/main/LICENSE
-[fork]: https://github.com/greentheblaze-open-source/roblox-style-guide/fork
+[code-of-conduct]: https://github.com/greentheblaze/roblox-style-guide/blob/main/CODE_OF_CONDUCT.md
+[license]: https://github.com/greentheblaze/roblox-style-guide/blob/main/LICENSE
+[fork]: https://github.com/greentheblaze/roblox-style-guide/fork

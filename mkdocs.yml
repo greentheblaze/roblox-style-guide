@@ -1,8 +1,8 @@
 site_name: Roblox Style Guide
-site_url: https://greentheblaze-open-source.github.io/roblox-style-guide/
+site_url: https://greentheblaze.github.io/roblox-style-guide/
 
-repo_name: greentheblaze-open-source/roblox-style-guide
-repo_url: https://github.com/greentheblaze-open-source/roblox-style-guide
+repo_name: greentheblaze/roblox-style-guide
+repo_url: https://github.com/greentheblaze/roblox-style-guide
 
 theme:
   name: material

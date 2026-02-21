@@ -14,8 +14,8 @@ Our project is an indefinite one, so if you think there are ways we could improv
 
 This project is licensed under the [MIT License][license].
 
-[contributing]: https://github.com/greentheblaze-open-source/roblox-style-guide/blob/main/CONTRIBUTING.md
-[license]: https://github.com/greentheblaze-open-source/roblox-style-guide/blob/main/LICENSE
-[home-page]: https://greentheblaze-open-source.github.io/roblox-style-guide/
-[issue]: https://github.com/greentheblaze-open-source/roblox-style-guide/issues/new
-[pull-request]: https://github.com/greentheblaze-open-source/roblox-style-guide/pulls
+[contributing]: https://github.com/greentheblaze/roblox-style-guide/blob/main/CONTRIBUTING.md
+[license]: https://github.com/greentheblaze/roblox-style-guide/blob/main/LICENSE
+[home-page]: https://greentheblaze.github.io/roblox-style-guide/
+[issue]: https://github.com/greentheblaze/roblox-style-guide/issues/new
+[pull-request]: https://github.com/greentheblaze/roblox-style-guide/pulls

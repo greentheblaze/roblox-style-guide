@@ -13,5 +13,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - This CHANGELOG file to hopefully serve as an evolving example of a standardized open source project CHANGELOG.
 
-[unreleased]: https://github.com/greentheblaze-open-source/roblox-style-guide/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/greentheblaze-open-source/roblox-style-guide/releases/tag/v0.1.0
+[unreleased]: https://github.com/greentheblaze/roblox-style-guide/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/greentheblaze/roblox-style-guide/releases/tag/v0.1.0
