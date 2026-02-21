@@ -7,11 +7,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- More themes to the style guide site, including dark themes.
+
+## [0.2.0] - 2026-02-21
+
+### Added
+
+- [Shield badges](https://shields.io/) for latest releases, the [LICENSE], and our Discord server to [README.md][readme] so navigation is easier.
+
+### Changed
+
+- All details in this repository associated with a now-redundant organization - including all links and [copyright information][license] - after repository ownership transfer.
+
 ## [0.1.0] - 2026-02-19
 
 ### Added
 
 - This CHANGELOG file to hopefully serve as an evolving example of a standardized open source project CHANGELOG.
 
-[unreleased]: https://github.com/greentheblaze/roblox-style-guide/compare/v0.1.0...HEAD
+[license]: https://github.com/greentheblaze/roblox-style-guide/blob/main/LICENSE
+[readme]: https://github.com/greentheblaze/roblox-style-guide/blob/main/README.md
+
+[unreleased]: https://github.com/greentheblaze/roblox-style-guide/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/greentheblaze/roblox-style-guide/releases/tag/v0.2.0
 [0.1.0]: https://github.com/greentheblaze/roblox-style-guide/releases/tag/v0.1.0
